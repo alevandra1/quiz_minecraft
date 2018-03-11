@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Minecraft Quiz</string>
+    <string name="question_1">1. Which of that mobs have not been removed from the game?</string>
+    <string name="Mooshroom">Mooshroom</string>
+    <string name="pigman">Pigman</string>
+    <string name="enderman">Enderman</string>
+    <string name="question_2">2. How long is a Minecraft Day/Night cycle in real time?</string>
+    <string name="_20_minutes">20 minutes</string>
+    <string name="_12_hours">12 hours</string>
+    <string name="_2_hours">2 hours</string>
+    <string name="question_3">3. Name this Minecraft mob:</string>
+    <string name="your_answer">Your answer</string>
+    <string name="question_4">4. What can Bone Meal be used for?</string>
+    <string name="as_a_dye">As a dye</string>
+    <string name="to_make_bones">To make bones</string>
+    <string name="to_grow_plants_quicker">To grow plants quicker</string>
+    <string name="submit_answers">Submit answers</string>
+
+</resources>
